@@ -1,0 +1,3 @@
+This was a pet project I made to learn building a button that changes css elements on a page, particularly the colors of certain elements. I hope to use these tools to create a functioning "change theme" button on my week one homework for SMU's coding boot camp.
+
+The code in this project is pulled straight from this [Youtube-video](https://www.youtube.com/watch?v=AaVxSc11t3Y&t=338s&ab_channel=GeekLaunch), and is not my own. 

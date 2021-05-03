@@ -1,0 +1,34 @@
+:root {
+    font-size: 25vmin;
+    font-family: "roboto", sans-serif;
+    width: 100%;
+    height: 100%;
+    --dark: #333;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+    background-color: white;
+    color: var(--dark);
+}
+
+body.dark-theme {
+    background-color: var(--dark);
+    color: white;
+}
+
+#change-theme-btn {
+    font: inherit;
+    border: 0;
+    outline: 0;
+    background-color: #333;
+    color: white;
+    cursor: pointer;
+}
+button:hover {
+    text-decoration: underline;
+}
